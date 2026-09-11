@@ -10,12 +10,12 @@
 
 <br>
 
-# Nome do projeto/atividade
+# FarmTech solutions
 
-## Nome do grupo
+## Indivudualistas
 
 ## 👨‍🎓 Integrantes: 
-- <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 1</a>
+- <a href="https://www.linkedin.com/in/raphael-bruno-59b504142/">Nome do integrante 1</a>
 - <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 2</a>
 - <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 3</a> 
 - <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 4</a> 
